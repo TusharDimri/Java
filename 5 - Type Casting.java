@@ -1,6 +1,6 @@
-class hello {
+class Demo {
     public static void main(String[] args) {
-        // Implicit casting means no user intervention and explicit mean suser has to specify explicitly.
+        // Implicit casting means no user intervention and explicit means user has to specify explicitly.
 
         byte b = 127;
         int a = b; // Implicit casting

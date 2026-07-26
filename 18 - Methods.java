@@ -14,7 +14,7 @@ class Computer
 }
 
 
-class hello {
+class Demo {
 	public static void main(String[] args) {
 		Computer obj=new Computer();
 		obj.playMusic();

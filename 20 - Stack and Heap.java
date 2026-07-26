@@ -9,7 +9,7 @@ class Calculator
 }
 
 
-class hello {
+class Demo {
 	public static void main(String[] args) {
 		// int data=10;
 		Calculator obj=new Calculator();

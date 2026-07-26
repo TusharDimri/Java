@@ -15,7 +15,7 @@ class Calculator
 }
 
 
-class hello {
+class Demo {
 	public static void main(String[] args) {
 		Calculator obj=new Calculator();
 		int r1=obj.add(3,4);

@@ -17,7 +17,7 @@ class Calculator {
 // An object is an instance of a class.
 // JV, creates objects from class code.
 
-class hello {
+class Demo {
     public static void main(String[] args) {
         int num1 = 4;
         int num2 = 5;
